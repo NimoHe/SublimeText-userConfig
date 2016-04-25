@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Fix Mac Path",
+		"FormatLua",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"Package Control",
+		"SyncedSideBar",
+		"Tag",
+		"TypeScript"
+	]
+}

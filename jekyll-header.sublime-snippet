@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+---
+layout: post
+title:  ${1:标题}
+date:   ${2:年－月－日 时:分:秒}
+categories: ${3:类别}
+excerpt: ${4:摘要}
+---
+
+* content
+{:toc}
+${5}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>header</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.markdown</scope>
+</snippet>
