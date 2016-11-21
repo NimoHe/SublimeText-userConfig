@@ -17,6 +17,7 @@
 		"TypeScript",
 		"ConvertToUTF8",
 		"DocBlockr",
-		"AdvancedNewFile"
+		"AdvancedNewFile",
+		"Markdown Preview"
 	]
 }
