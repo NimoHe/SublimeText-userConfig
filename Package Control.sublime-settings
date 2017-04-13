@@ -18,6 +18,9 @@
 		"ConvertToUTF8",
 		"DocBlockr",
 		"AdvancedNewFile",
-		"Markdown Preview"
+		"Markdown Preview",
+		"A File Icon",
+		"AutoFileName",
+		"MarkdownEditing"
 	]
 }
